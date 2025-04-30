@@ -1,6 +1,6 @@
 # Comprehensive GPU Analysis for Healthcare AI Workloads
 
-Below is a revised analysis comparing GPUs across different healthcare AI workloads, with genomic processing removed and sources included.
+Below is a revised analysis comparing GPUs across different healthcare AI workloads:
 
 ## NVIDIA Data Center - High End
 
@@ -117,7 +117,7 @@ Healthcare systems increasingly need to run multiple models simultaneously:
 
 ## Tesla T4 Deep-Dive for Healthcare Workloads
 
-The Tesla T4 (which your company currently has) has several significant limitations for modern healthcare AI:
+The Tesla T4 has several significant limitations for modern healthcare AI:
 
 1. **Limited Model Support**:
    - Can only run 7B parameter models with 8-bit quantization
